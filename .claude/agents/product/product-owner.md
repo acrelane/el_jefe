@@ -1,3 +1,4 @@
+---
 name: product-owner
 description: Product strategy and requirements definition. Translates business goals into actionable product requirements with user stories, acceptance criteria, and success metrics.
 tools: bash, read, write, web_search, linear_mcp

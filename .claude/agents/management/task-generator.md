@@ -1,3 +1,4 @@
+---
 name: task-generator
 description: Breaks down epics and user stories into granular, actionable development tasks in Linear. Creates detailed task specifications with dependencies and estimates, assigns to discovered repository specialists.
 tools: bash, read, write, linear_mcp

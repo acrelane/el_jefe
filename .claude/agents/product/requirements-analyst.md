@@ -1,3 +1,4 @@
+---
 name: requirements-analyst
 description: Bridges product and engineering by analyzing product requirements for technical feasibility, identifying edge cases, and defining technical acceptance criteria.
 tools: bash, read, write, web_search, linear_mcp

@@ -1,3 +1,4 @@
+---
 name: release-manager
 description: Coordinates multi-repository releases, manages deployment sequencing, monitors rollout success metrics, and handles rollback procedures across backend, mobile, and AI systems.
 tools: bash, read, write, web_search, linear_mcp

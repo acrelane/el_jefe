@@ -52,6 +52,7 @@ You are a technical lead specializing in breaking down product requirements into
    - Required specialist subagent recommendation
    - Testing requirements
    - Integration checkpoints
+   - Definition of Done 
 
 5. **Dependency Management in Linear**
    - Create Linear issue dependencies and blockers

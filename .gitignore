@@ -14,3 +14,9 @@ package-lock.json
 
 # MCP
 .playwright-mcp/
+
+
+# BRV
+.brv/*
+
+mcp-config.json
